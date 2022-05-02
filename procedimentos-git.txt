@@ -1,0 +1,5 @@
+Após alterar o arquivo:
+1. git add 'arquivo.txt'
+2. git commit -m 'mensagem que quiser comentar a alteração'
+3. git push origin-two master
+Depois verificar o GitHub
